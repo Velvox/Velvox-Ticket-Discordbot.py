@@ -1,0 +1,5 @@
+DISCORD_TOKEN = 'yourbottoken'
+DB_HOST = 'yourdatabasehost'
+DB_USER = 'yourdatabaseuser'
+DB_PASSWORD = 'yourdatabasepassword'
+DB_NAME = 'yourdatabasename'
